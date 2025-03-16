@@ -1,4 +1,3 @@
-"""
 # Data Visualization with Matplotlib - Jupyter Notebook Project
 
 ## Overview
